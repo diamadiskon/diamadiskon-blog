@@ -4,7 +4,7 @@ email: diamadisapple@gmail.com
 description: >-
   A tech blog focused on DevOps practices, tools, and insights.
   Sharing knowledge about CI/CD, cloud infrastructure, automation, and more.
-baseurl: '' # the subpath of your site, e.g. /blog
+baseurl: '/diamadiskon-blog' # the subpath of your site, e.g. /blog
 url: 'https://diamadiskon.github.io' # the base hostname & protocol for your site
 twitter_username: yourusername
 github_username: diamadiskon
@@ -43,7 +43,7 @@ defaults:
       type: 'posts'
     values:
       layout: 'post'
-      author: 'Your Name'
+      author: 'Diamadis'
       show_excerpts: true
 
 # Pagination
