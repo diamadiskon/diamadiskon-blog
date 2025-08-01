@@ -3,7 +3,7 @@ layout: home
 title: "DevOps Insights"
 ---
 
-Welcome to my tech blog where I share insights, tutorials, and best practices about DevOps, cloud infrastructure, automation, and modern software development practices.
+Welcome to Diamadis's DevOps blog! Here I share insights, tutorials, and best practices about DevOps, cloud infrastructure, automation, and modern software development practices.
 
 ## What You'll Find Here
 
