@@ -34,10 +34,9 @@ This blog serves as a platform to:
 
 Feel free to reach out if you have questions, suggestions, or just want to connect!
 
-- **GitHub**: [yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourusername)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Email**: your-email@example.com
+- **GitHub**: [diamadiskon](https://github.com/diamadiskon)
+- **LinkedIn**: [Diamadis Konstantinids](https://linkedin.com/in/diamadis-k-a7126b158)
+- **Email**: diamadisapple@gmail.com
 
 ---
 
