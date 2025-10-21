@@ -30,6 +30,7 @@ Thumbs.db
 /.bundle/
 /vendor/bundle
 /lib/bundler/man/
+Gemfile.lock
 
 # Jekyll
 /_site/

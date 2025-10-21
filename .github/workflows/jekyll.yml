@@ -17,13 +17,11 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0'
-        bundler-cache: false
+        ruby-version: '3.1'
+        bundler-cache: true
         
     - name: Install dependencies
-      run: |
-        gem install bundler
-        bundle install
+      run: bundle install
       
     - name: Build Jekyll site
       run: bundle exec jekyll build
