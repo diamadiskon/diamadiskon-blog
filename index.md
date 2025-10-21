@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "DevOps Insights"
+author_profile: true
 ---
 
 Welcome to Diamadis's DevOps blog! Here I share insights, tutorials, and best practices about DevOps, cloud infrastructure, automation, and modern software development practices.
