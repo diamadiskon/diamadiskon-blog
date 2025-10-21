@@ -37,7 +37,7 @@ Feel free to reach out if you have questions, suggestions, or just want to conne
 
 - **GitHub**: [diamadiskon](https://github.com/diamadiskon)
 - **LinkedIn**: [Diamadis Konstantinids](https://linkedin.com/in/diamadis-k-a7126b158)
-- **Email**: diamadisapple@gmail.com
+<!-- - **Email**: diamadisapple@gmail.com -->
 
 ---
 

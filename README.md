@@ -105,7 +105,7 @@ This site is configured for automatic deployment with GitHub Pages:
 
 1. Push your changes to the main branch
 2. GitHub Pages will automatically build and deploy your site
-3. Your site will be available at `https://yourusername.github.io/diamadis-blog`
+3. Your site will be available at `https://diamadiskon.github.io/diamadis-blog`
 
 ### Custom Domain (Optional)
 

@@ -10,6 +10,9 @@ excerpt: "The recent AWS US-EAST-1 outage reminded us why putting all our eggs i
 
 On October 20, 2025, AWS faced a major outage in its US-EAST-1 region one of the most heavily used cloud regions in the world. The root cause was a critical DNS resolution issue that affected core services like DynamoDB, EC2, Lambda, and ECS.
 
+![AWS Outage Impact](/diamadiskon-blog/assets/images/amazon-web-services-aws-down-december-2021.avif){: .align-center style="max-width: 600px; height: auto;"}
+*When AWS goes down, a significant portion of the internet feels the impact*
+
 As a result, countless applications suddenly couldn't reach their data or backend services. The disruption rippled across the internet, bringing down parts of Snapchat, Reddit, Coinbase, and even Fortnite for several hours. Although AWS engineers eventually mitigated the problem, the impact was global affecting millions of users and businesses that rely on AWS infrastructure every day.
 
 For DevOps teams, incidents like this serve as a powerful reminder: no cloud provider is infallible. Even the biggest and most sophisticated platforms can experience unexpected failures. And when that happens, businesses that rely solely on one cloud provider can find themselves completely offline.
