@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AWS East 1 Outage: What Happened and Why Multi-Cloud Matters"
-date: 2025-10-21 14:30:00 +0000
+date: 2025-10-21 10:00:00 +0000
 categories: [devops, cloud, reliability]
 tags: [aws, multi-cloud, outage, reliability, devops, infrastructure]
 author: "Diamadis Konstantinids"
