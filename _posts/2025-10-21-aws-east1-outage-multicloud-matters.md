@@ -9,7 +9,7 @@ excerpt: "The recent AWS US-EAST-1 outage reminded us why putting all our eggs i
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /diamadiskon-blog/assets/images/amazon-web-services-aws-down-december-2021.avif
+  overlay_image: /diamadiskon-blog/assets/images/amazon-web-services-aws-down-december-2021.jpg
   caption: "When AWS goes down, a significant portion of the internet feels the impact"
 toc: true
 toc_label: "Contents"
